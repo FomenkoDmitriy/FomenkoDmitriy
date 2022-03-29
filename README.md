@@ -7,7 +7,7 @@
 - 👨‍🎨 I love to draw and study art
 - 🥅 I am constantly learning new things
 - 👨‍🏫 I love learning languages 
-- 🚝 and I love to travel (🇺🇿 🇮🇳 🇨🇿 🇦🇹 🇸🇰 🇫🇷 🇩🇪 🇻🇳 🇷🇺)
+- 🚝 and I love to travel 🇺🇿 🇮🇳 🇨🇿 🇦🇹 🇸🇰 🇫🇷 🇩🇪 🇻🇳 🇷🇺
 
 ### Technologies
 ![Java](https://img.shields.io/badge/-Java-545775?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
