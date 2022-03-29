@@ -9,18 +9,18 @@
 - 👨‍🏫 I love learning languages 
 - 🚝 and I love to travel (🇺🇿 🇮🇳 🇨🇿 🇦🇹 🇸🇰 🇫🇷 🇩🇪 🇻🇳 🇷🇺)
 
-##Technologies
+##Technologies<br>
 ![Java](https://img.shields.io/badge/-Java-545775?style=for-the-badge&logo=Jav1a&logoColor=efd81d) 
 ![JUnit](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d) 
 ![Maven](https://img.shields.io/badge/-Maven-545775?style=for-the-badge&logo=Mav1en&logoColor=efd81d) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3b444b?style=for-the-badge&logo=Postg1reSQL&logoColor=efd81d)
 ![Git](https://img.shields.io/badge/-Git-3b444b?style=for-the-badge&logo=Gi1t&logoColor=efd81d)  
 
-###Programming tools
+###Programming tools<br>
 ![Jetbrains_IDE](https://img.shields.io/badge/-Jetbrains_IDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
 ![GitHub](https://img.shields.io/badge/-GitHub-3b444b?style=for-the-badge&logo=Git1Hub&logoColor=efd81d)
 
-##Languages
+##Languages<br>
 ![English](https://img.shields.io/badge/English-intermediate-blue)
 ![Czech](https://img.shields.io/badge/Czech-intermediate-blue)
 ![Russian](https://img.shields.io/badge/Russian-native-blue)
