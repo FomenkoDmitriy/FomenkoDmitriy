@@ -33,7 +33,7 @@
 |--------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 |[JavaCodingBootcamp](https://github.com/Severin73/JavaCodingBootcamp)| This 3 weeks Bootcapm from **[Kovalevskyi Academy](https://kovalevskyi.academy)** covers the basics of Java, such as Java Core, collections, maven, GIT, OOP|Java Core, Advanced Core|
 |[TicTacToe](https://github.com/Severin73/TicTacToe)|TicTacToe game NxN (the size of the playing field can be a matrix of any size). The result of each series of games of two players is recorded in a file. The replay of the games played is also implemented.|Java Core, Advanced Core, Parse xml|
-|[JavaCourse (Basic)](git@github.com:Severin73/JavaLevelBasic.git)|The course covers the basics of Java, such as Java Core, collections, multithreading, OOP|Java Core, Advanced Core|
+|[JavaCourse (Basic)](https://github.com/Severin73/JavaLevelBasic)|The course covers the basics of Java, such as Java Core, collections, multithreading, OOP|Java Core, Advanced Core|
 
 
 
