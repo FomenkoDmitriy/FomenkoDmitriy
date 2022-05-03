@@ -24,7 +24,7 @@
 ![English](https://img.shields.io/badge/English-intermediate-blue)
 ![Czech](https://img.shields.io/badge/Czech-intermediate-blue)
 ![Russian](https://img.shields.io/badge/Russian-native-blue)
-![Uzbek](https://img.shields.io/badge/Uzbek-elementary-blue)
+![Uzbek](https://img.shields.io/badge/Uzbek-intermediate-blue)
 
 
 ### Study projects
