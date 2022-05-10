@@ -14,7 +14,8 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-3b444b?style=for-the-badge&logo=JUni1t&logoColor=efd81d) 
 ![Maven](https://img.shields.io/badge/-Maven-545775?style=for-the-badge&logo=Mav1en&logoColor=efd81d) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3b444b?style=for-the-badge&logo=Postg1reSQL&logoColor=efd81d)
-![Git](https://img.shields.io/badge/-Git-3b444b?style=for-the-badge&logo=Gi1t&logoColor=efd81d)  
+![Git](https://img.shields.io/badge/-Git-3b444b?style=for-the-badge&logo=Gi1t&logoColor=efd81d)
+![JDBC](https://img.shields.io/badge/-JDBC-545775?style=for-the-badge&logo=JDBC1a&logoColor=efd81d)
 
 ### Programming tools
 ![Jetbrains_IDE](https://img.shields.io/badge/-Jetbrains_IDE-116062?style=for-the-badge&logo=Jetbrains1IDE&logoColor=efd81d)
